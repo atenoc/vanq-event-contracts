@@ -1,7 +1,0 @@
-C:\workspace\github\vanq-event-contracts\src\main\java\vanq\demo\events\common\Event.java
-C:\workspace\github\vanq-event-contracts\src\main\java\vanq\demo\events\common\EventMetadata.java
-C:\workspace\github\vanq-event-contracts\src\main\java\vanq\demo\events\notification\NotificationFailedEvent.java
-C:\workspace\github\vanq-event-contracts\src\main\java\vanq\demo\events\notification\NotificationSentEvent.java
-C:\workspace\github\vanq-event-contracts\src\main\java\vanq\demo\events\user\UserCreatedEvent.java
-C:\workspace\github\vanq-event-contracts\src\main\java\vanq\demo\events\user\UserDeletedEvent.java
-C:\workspace\github\vanq-event-contracts\src\main\java\vanq\demo\events\user\UserUpdatedEvent.java
